@@ -1,2 +1,29 @@
 # informaticaa
 pagina web
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Página Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        h1 {
+            color: #005f99;
+        }
+        img {
+            width: 300px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Bienvenido a Mi Página Web!</h1>
+    <p>Esta es una página creada como parte de una actividad para aprender HTML y CSS. ¡Espero que te guste!</p>
+    <img src="https://via.placeholder.com/300x200" alt="Imagen de ejemplo">
+</body>
+</html>
